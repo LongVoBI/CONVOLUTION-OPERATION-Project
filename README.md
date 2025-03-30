@@ -6,7 +6,7 @@
 This repository contains an implementation of Convolutional Neural Networks (CNNs), focusing on the core convolution operation used in deep learning for image processing tasks. CNNs are widely applied in fields like image classification, object detection, and pattern recognition. In this project, the convolution operation, along with techniques like zero-padding and stride control, are used to extract features from input data. This serves as the foundation for building more advanced computer vision applications using deep learning.
 
 ### Report
-For more information, click [here]([CONVOLUTION-OPERATION-Project/CA_ASS_RP.pdf](https://github.com/LongVoBI/CONVOLUTION-OPERATION-Project/blob/main/README.md)).
+For more information, click [here](https://github.com/LongVoBI/CONVOLUTION-OPERATION-Project/blob/3e16f42db17b2dfd28f5c4cde8cda7539ffe2b3b/CA_ASS_RP.pdf)
 
 ### Installation and Running the Project
 Follow these steps to set up and run the project:
