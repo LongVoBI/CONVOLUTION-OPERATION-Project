@@ -1,6 +1,5 @@
 # CONVOLUTION OPERATION Project
-This is Computer Architecture (CO2008) Assignment
-Click [here]() to read assignment topic and requirements .
+This is Computer Architecture (CO2008) Assignment.Click [here](https://github.com/LongVoBI/CONVOLUTION-OPERATION-Project/blob/370d6b2c37c1ebc645f80fb6d9bb01f47d87d94f/%5BHK241%5DConvolution_Operation.pdf) to read assignment topic and requirements .
 
 ### Introduction
 This repository contains an implementation of Convolutional Neural Networks (CNNs), focusing on the core convolution operation used in deep learning for image processing tasks. CNNs are widely applied in fields like image classification, object detection, and pattern recognition. In this project, the convolution operation, along with techniques like zero-padding and stride control, are used to extract features from input data. This serves as the foundation for building more advanced computer vision applications using deep learning.
